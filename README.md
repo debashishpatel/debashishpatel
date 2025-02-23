@@ -27,7 +27,7 @@
 </p>
 
 ---
-
+<!-- 
 ### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -39,7 +39,7 @@
 ### 🏆 **GitHub Trophies**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&row=1&column=6" />
-</p>
+</p> -->
 
 ---
 
@@ -54,5 +54,6 @@
 
 ### 💖 **Support Me**
 <p>
-  <a href="https://www.buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-orange?style=for-the-badge&logo=buymeacoffee" /></a>
+  <!-- <a href="https://www.buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-orange?style=for-the-badge&logo=buymeacoffee" /></a> -->
+  coming soon stay Tuned !
 </p>
