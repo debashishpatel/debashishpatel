@@ -38,14 +38,6 @@ Clean Architecture backend for personal apps.
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debashishpatel&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debashishpatel&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
