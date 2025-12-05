@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/900x250/0d1117/ffffff?text=Welcome+to+My+GitHub" alt="banner" />
+  <img src="https://via.placeholder.com/900x250/0d1117/ffffff?text=Welcome+to+My+GitHub](https://www.flaticon.com/free-icon/developer_6840478" alt="banner" />
 </p>
 
 # 👋 Hi, I'm **Debashish**
