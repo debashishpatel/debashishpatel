@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/900x250/0d1117/ffffff?text=Welcome+to+My+GitHub](https://www.flaticon.com/free-icon/developer_6840478" alt="banner" />
+  <img src="[https://via.placeholder.com/900x250/0d1117/ffffff?text=Welcome+to+My+GitHub](https://www.flaticon.com/free-icon/developer_6840478](https://www.google.com/search?sxsrf=AE3TifMhRTBC48gGW3NT8UPLvtXgheQDYQ:1764950875758&udm=2&q=developer+images#sv=CAMSVhoyKhBlLTgxZGhzYVd0WURaV2ZNMg44MWRoc2FXdFlEWldmTToOeDVZa19TYUQ4c0EyS00gBCocCgZtb3NhaWMSEGUtODFkaHNhV3RZRFpXZk0YADABGAcgivKIuQUwAkoKCAIQAhgCIAIoAg)" alt="banner" />
 </p>
 
 # 👋 Hi, I'm **Debashish**
