@@ -1,32 +1,70 @@
-# 👋 Hi, I'm **Your Name**
-### Java Backend Developer • 3 Years Experience
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://via.placeholder.com/900x250/0d1117/ffffff?text=Welcome+to+My+GitHub" alt="banner" />
+</p>
 
-I build clean, scalable, and efficient backend systems using Java & Spring Boot.  
-Focused on writing maintainable code, optimizing APIs, and designing solid architectures.
+# 👋 Hi, I'm **Debashish**
 
----
+### Java Backend Developer • 3 Years of Experience
 
-## ⚙️ Tech Stack
-**Languages:** Java • SQL  
-**Frameworks:** Spring Boot • Spring MVC • JPA/Hibernate  
-**Databases:** MySQL • PostgreSQL • Redis  
-**DevOps:** Docker • GitHub Actions  
-**Cloud:** AWS (EC2, S3)  
-**Others:** Kafka • Swagger • JUnit
+I develop clean, reliable, and scalable backend systems using **Java** and **Spring Boot**.  
+Focused on API design, microservices, performance optimization, and clean architecture.
 
 ---
 
-## 📌 Projects
-- **Microservices System** — Spring Cloud, Kafka, Docker  
-- **REST API Platform** — JWT Auth, Caching, Pagination  
-- **Personal Portfolio Backend** — Clean Architecture, JPA, PostgreSQL  
+## 🧩 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,redis,docker,aws,kafka,git" />
+</p>
 
 ---
 
-## 📫 Contact
-**Email:** your.email@example.com  
-**LinkedIn:** https://linkedin.com/in/yourprofile  
+## 📌 Featured Projects
+
+### **Microservices System**
+Distributed system with API Gateway, Service Registry, and event-driven communication.  
+**Tech:** Spring Cloud, Kafka, Docker
 
 ---
 
-> “Simplicity is the soul of efficiency.”
+### **REST API Platform**
+Production-grade REST service with JWT auth, caching, and monitoring.  
+**Tech:** Spring Boot, Redis, JWT
+
+---
+
+### **Portfolio Backend**
+Clean Architecture backend for personal apps.  
+**Tech:** Java, JPA, PostgreSQL
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/debashishpatel">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:debashishpatel10@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><i>“Simplicity is the soul of efficiency.”</i></p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x200/0d1117/ffffff?text=Thanks+for+visiting!" />
+</p>
