@@ -55,6 +55,4 @@ Clean Architecture backend for personal apps.
 
 <p align="center"><i>“Simplicity is the soul of efficiency.”</i></p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x200/0d1117/ffffff?text=Thanks+for+visiting!" />
-</p>
+
